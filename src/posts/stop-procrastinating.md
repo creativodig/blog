@@ -16,6 +16,8 @@ But I couldn’t quit. I tried a lot of things. I tried time boxing and goal set
 
 That’s because I wasn’t getting to the root problem.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GkfCku3ii5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 I hadn’t figured out the skill that would save me from the procrastination.
 
 Until I learned about letting go.
