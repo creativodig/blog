@@ -16,6 +16,8 @@ The result is often a continual busyness, constant distraction and avoidance, la
 
 We run from silence. We run from the spaces between tasks and appointments. We run from solitude and stillness. We try to fill every second with activity, with something useful, as if silence and space are not valuable.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GkfCku3ii5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 But what are we afraid of?
 
 And who would we be if we didn’t have that fear?
