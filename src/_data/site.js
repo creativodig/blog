@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Creativo.Magazine',
-  description: 'Revista mensual sobre creatividad, diseño y programación',
+  title: 'Ecosistemas Digitales e industria 4.0',
+  description: 'Podcast quincenal',
   keywords: ['eleventy', 'template', 'simple', 'clean'],
   url: 'https://creativomagazine.netlify.app', // your site url without trailing slash
   paginate: 6 // how many posts you want to show for each page
